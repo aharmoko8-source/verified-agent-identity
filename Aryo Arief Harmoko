@@ -10,7 +10,7 @@ on:
       agent_description:
         description: 'Aryo Arief Harmoko'
         required: true
-        default: 'Aryo Arief Harmoko Aai Agent'
+        default: 'Aryo Arief Harmoko AI Agent'
 
 jobs:
   verify:
